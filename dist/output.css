@@ -1139,44 +1139,12 @@ input[type="range"]::-ms-fill-lower {
   width: 2.25rem;
 }
 
-.w-full {
-  width: 100%;
-}
-
-.w-32 {
-  width: 8rem;
-}
-
-.w-36 {
-  width: 9rem;
-}
-
-.w-72 {
-  width: 18rem;
-}
-
-.w-96 {
-  width: 24rem;
-}
-
-.w-80 {
-  width: 20rem;
-}
-
-.w-\[120px\] {
-  width: 120px;
-}
-
-.w-\[620px\] {
-  width: 620px;
-}
-
-.w-\[320px\] {
-  width: 320px;
-}
-
 .w-\[350px\] {
   width: 350px;
+}
+
+.w-full {
+  width: 100%;
 }
 
 .max-w-\[120px\] {
